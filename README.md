@@ -94,7 +94,7 @@ If you use GALLM in your research or project, please cite:
   url = {https://github.com/leloss/gallm/}
 }
 
-@software{loss2025gecco,
+@software{loss2025gallm,
   author = {Loss, Leandro A. and Dhuvad, Pratikkumar},
   title = {GALLM: An LLM-Based Genetic Algorithm for Prompt Engineering},
   year = {2025},
