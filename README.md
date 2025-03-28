@@ -78,7 +78,7 @@ python3.9 gallm-fit.py truthful-qa-parsed.csv 50 mistral small
 If you use GALLM in your research or project, please cite:
 
 ```bibtex
-@software{loss2025cec,
+@inproceedings{loss2025cec,
   author = {Loss, Leandro A. and Dhuvad, Pratikkumar},
   title = {From Manual to Automated Prompt Engineering: Evolving LLM Prompts with Genetic Algorithms},
   year = {2025},
@@ -86,11 +86,19 @@ If you use GALLM in your research or project, please cite:
   url = {https://github.com/leloss/gallm/}
 }
 
-@software{loss2025gecco,
+@inproceedings{loss2025gecco,
   author = {Loss, Leandro A. and Dhuvad, Pratikkumar},
   title = {An LLM-Based Genetic Algorithm for Prompt Engineering},
   year = {2025},
   publisher = {ACM Genetic and Evolutionary Computation Conference (GECCO'25)},
+  url = {https://github.com/leloss/gallm/}
+}
+
+@software{loss2025gecco,
+  author = {Loss, Leandro A. and Dhuvad, Pratikkumar},
+  title = {GALLM: An LLM-Based Genetic Algorithm for Prompt Engineering},
+  year = {2025},
+  publisher = {GitHub},
   url = {https://github.com/leloss/gallm/}
 }
 ```
