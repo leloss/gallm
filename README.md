@@ -71,3 +71,25 @@ python3.9 gallm-fit.py bulgarian-qa.csv 200 gpt large
 python3.9 gallm-fit.py topics.csv 40 llama small
 python3.9 gallm-fit.py topics.csv 200 gpt large
 python3.9 gallm-fit.py truthful-qa-parsed.csv 50 mistral small
+
+## Citations
+
+If you use GALLM in your research or project, please cite:
+
+```bibtex
+@software{loss2025cec,
+  author = {Loss, Leandro A. and Dhuvad, Pratikkumar},
+  title = {From Manual to Automated Prompt Engineering: Evolving LLM Prompts with Genetic Algorithms},
+  year = {2025},
+  publisher = {IEEE Congress on Evolutionary Computation (CEC'25},
+  url = {https://github.com/leloss/gallm/}
+}
+
+@software{loss2025gecco,
+  author = {Loss, Leandro A. and Dhuvad, Pratikkumar},
+  title = {An LLM-Based Genetic Algorithm for Prompt Engineering},
+  year = {2025},
+  publisher = {ACM Genetic and Evolutionary Computation Conference (GECCO'25)},
+  url = {https://github.com/leloss/gallm/}
+}
+```
